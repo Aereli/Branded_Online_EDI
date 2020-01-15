@@ -1,9 +1,9 @@
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-***************************************************************
+// ***************************************************************
 //THIS CREATES A DIRECTORY AND FILE ON THE PATH THAT IS ADDED>
-***************************************************************
+// ***************************************************************
 
 public class CopyFile {
     public static void main(String args[]) throws IOException {
